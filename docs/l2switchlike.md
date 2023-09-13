@@ -12,7 +12,7 @@ set P4,P5,P6,P7 as L2 Switch
 </configSet>
 ```
 
-## ARRAY XML
+## ARRAY NTB XML
 
 ```xml
 <run>

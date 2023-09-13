@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ARRAY XML](README.md)
+* [ARRAY NTB XML](README.md)
   * [Element \<run>](home/run.md)
   * [Element \<filter>](home/filter/README.md)
     * [Element \<find>](home/filter/find.md)
@@ -21,7 +21,7 @@
   * [Packet > File](docs/packet-greater-than-file.md)
   * [Tunnel](docs/tunnel.md)
   * [Bandwidth Control](docs/bandwidth-control.md)
-  * [Snort Rule > array XML](docs/snort-rule-greater-than-array-xml.md)
+  * [Snort Rule > ARRAY NTB XML](docs/snort-rule-greater-than-array-xml.md)
   * [Offload](docs/reduce.md)
   * [Service Chain](docs/service\_chain\_ssli\_ips.md)
   * [Block Gmail](docs/block-gmail.md)

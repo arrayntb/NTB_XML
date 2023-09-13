@@ -84,7 +84,7 @@ Send heartbeat packet to P4 and expect packet will come back from P5
 </configSet>
 ```
 
-**ARRAY XML**
+**ARRAY NTB XML**
 
 ```xml
 <run>

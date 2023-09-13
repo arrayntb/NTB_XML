@@ -35,7 +35,7 @@ send syslog to log server 192.168.1.12:514 if block/detect happened
 &#x3C;/configSet>
 </code></pre>
 
-### ARRAY XML (black list sample)
+### ARRAY NTB XML (black list sample)
 
 ```xml
 <run>
@@ -67,7 +67,7 @@ send syslog to log server 192.168.1.12:514 if block/detect happened
 </run>
 ```
 
-### ARRAY XML(block sample)
+### ARRAY NTB XML(block sample)
 
 ```xml
 <run>
@@ -90,7 +90,7 @@ send syslog to log server 192.168.1.12:514 if block/detect happened
 </run>
 ```
 
-### ARRAY XML(detect sample)
+### ARRAY NTB XML(detect sample)
 
 ```xml
 <run>

@@ -1,12 +1,12 @@
-# ARRAY XML
+# ARRAY NTB XML
 
 ## Tutorial
 
-> ARRAY XML is the standard markup language for SDN
+> ARRAY NTB XML is the standard markup language for SDN
 
-> With ARRAY XML you can define the Network with XML
+> With ARRAY NTB XML you can define the Network with XML
 
-> ARRAY XML is easy to learn - You will enjoy it!
+> ARRAY NTB XML is easy to learn - You will enjoy it!
 
 ## Features
 
@@ -23,7 +23,7 @@ ARRAY, ARRAY-NETWORKS ([https://arraynetworks.com/](https://arraynetworks.com/))
 
 [https://arraynetworks.gitbook.io/array-xml/](https://arraynetworks.gitbook.io/array-xml/)
 
-## A Simple ARRAY XML
+## A Simple ARRAY NTB XML
 
 Define filter id=1 aka **F1** as black IP list and descript network topology in chain. When packets come from P0, if matched F1, send to P1, else if not matched, send to P2
 

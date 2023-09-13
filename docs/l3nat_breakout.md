@@ -23,7 +23,7 @@ description: >-
 </configSet>
 ```
 
-## ARRAY XML
+## ARRAY NTB XML
 
 ### breakout dns (basic sample)
 

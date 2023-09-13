@@ -14,7 +14,7 @@
 </configSet>
 ```
 
-## ARRAY XML
+## ARRAY NTB XML
 
 ```xml
 <run>

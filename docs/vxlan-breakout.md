@@ -36,7 +36,7 @@ description: concat all L2 Switches with VXLAN tunnel
 </configSet>
 ```
 
-## ARRAY XML
+## ARRAY NTB XML
 
 ```xml
 <run>

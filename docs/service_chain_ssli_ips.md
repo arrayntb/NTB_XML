@@ -51,7 +51,7 @@
     </heartbeat>
 </configSet>
 ```
-#### ARRAY XML
+#### ARRAY NTB XML
 ```xml
 <run>
 	<filter id="1" sessionBase="no">
@@ -211,7 +211,7 @@
     </heartbeat>
 </configSet>
 ```
-#### ARRAY XML
+#### ARRAY NTB XML
 ```xml
 <run>
 	<filter id="1" sessionBase="no">

@@ -1,5 +1,5 @@
 ---
-description: ARRAY XML Schema
+description: ARRAY NTB XML Schema
 ---
 
 # Schema
