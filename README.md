@@ -1,12 +1,12 @@
-# GRISM XML
+# ARRAY XML
 
 ## Tutorial
 
-> GRISM XML is the standard markup language for SDN
+> ARRAY XML is the standard markup language for SDN
 
-> With GRISM XML you can define the Network with XML
+> With ARRAY XML you can define the Network with XML
 
-> GRISM XML is easy to learn - You will enjoy it!
+> ARRAY XML is easy to learn - You will enjoy it!
 
 ## Features
 
@@ -17,13 +17,13 @@
 
 ## Device Support
 
-ARRAY, GRISM-MEC ([https://packetx.biz/](https://packetx.biz/))
+ARRAY, ARRAY-NETWORKS ([https://arraynetworks.com/](https://arraynetworks.com/))
 
 ## Online Doc
 
-[https://packetx.gitbook.io/grism-xml/](https://packetx.gitbook.io/grism-xml/)
+[https://arraynetworks.gitbook.io/array-xml/](https://arraynetworks.gitbook.io/array-xml/)
 
-## A Simple GRISM XML
+## A Simple ARRAY XML
 
 Define filter id=1 aka **F1** as black IP list and descript network topology in chain. When packets come from P0, if matched F1, send to P1, else if not matched, send to P2
 

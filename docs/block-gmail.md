@@ -10,7 +10,7 @@ description: Block Gmail by block dns query mail.google.com and block tcp dest p
          |P7 
   --------------- 
  |               |
- |     GRISM     |
+ |      NTB      |
  |               |
   --------------- 
          |P6

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GRISM XML](README.md)
+* [ARRAY XML](README.md)
   * [Element \<run>](home/run.md)
   * [Element \<filter>](home/filter/README.md)
     * [Element \<find>](home/filter/find.md)
@@ -21,7 +21,7 @@
   * [Packet > File](docs/packet-greater-than-file.md)
   * [Tunnel](docs/tunnel.md)
   * [Bandwidth Control](docs/bandwidth-control.md)
-  * [Snort Rule > GRISM XML](docs/snort-rule-greater-than-grism-xml.md)
+  * [Snort Rule > array XML](docs/snort-rule-greater-than-array-xml.md)
   * [Offload](docs/reduce.md)
   * [Service Chain](docs/service\_chain\_ssli\_ips.md)
   * [Block Gmail](docs/block-gmail.md)

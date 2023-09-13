@@ -14,7 +14,7 @@
 </configSet>
 ```
 
-## GRISM XML
+## ARRAY XML
 
 ```xml
 <run>

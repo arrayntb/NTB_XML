@@ -23,7 +23,7 @@ description: >-
 </configSet>
 ```
 
-## GRISM XML
+## ARRAY XML
 
 ### breakout dns (basic sample)
 

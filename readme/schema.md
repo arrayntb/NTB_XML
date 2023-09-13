@@ -1,5 +1,5 @@
 ---
-description: GRISM XML Schema
+description: ARRAY XML Schema
 ---
 
 # Schema

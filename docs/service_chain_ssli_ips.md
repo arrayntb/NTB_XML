@@ -7,7 +7,7 @@
                    |               | P1----|          |
   ---------        |               |       |   Array  |
  |         |----P5 |               | P3----|          |
- |   IPS   |       |     GRISM     |        ----------
+ |   IPS   |       |      NTB      |        ----------
  |         |----P4 |               |        ----------
   ---------        |               | P2----|          |
                    |               |       |   Array  |
@@ -51,7 +51,7 @@
     </heartbeat>
 </configSet>
 ```
-#### GRISM XML
+#### ARRAY XML
 ```xml
 <run>
 	<filter id="1" sessionBase="no">
@@ -167,7 +167,7 @@
                    |               | P1----|          |
   ---------        |               |       |    A10   |
  |         |----P5 |               | P3----|          |
- |   IPS   |       |     GRISM     |        ----------
+ |   IPS   |       |      NTB      |        ----------
  |         |----P4 |               |        ----------
   ---------        |               | P2----|          |
                    |               |       |    A10   |
@@ -211,7 +211,7 @@
     </heartbeat>
 </configSet>
 ```
-#### GRISM XML
+#### ARRAY XML
 ```xml
 <run>
 	<filter id="1" sessionBase="no">

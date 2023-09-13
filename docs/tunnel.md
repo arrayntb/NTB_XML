@@ -22,7 +22,7 @@ description: GRE/GTP/UDP Tunnel
 </configSet>
 ```
 
-#### GRISM XML
+#### ARRAY XML
 
 ```xml
 <run>
