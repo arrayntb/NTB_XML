@@ -10,7 +10,7 @@ description: concat all L2 Switches with VXLAN tunnel
                                            | VXLAN(source) |    ---------
                     -------------       ---| 192.168.2.100 |---|L2 Switch|--- user
     ---------      |             |     |    ---------------     ---------
-   |L2 Switch|---P0|     NTB     |P1---|    
+   |L2 Switch|---P0|  Array NTB  |P1---|    
     ---------      | VXLAN(dest) |     |    
         |          | 192.168.2.1 |     |    ---------------     ---------
                    | :4789       |      ---| VXLAN(source) |---|L2 Switch|--- user

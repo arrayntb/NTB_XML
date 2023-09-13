@@ -10,7 +10,7 @@ description: block specific country try to establish TCP/UDP connection from WAN
          |P7 
   --------------- 
  |               |
- |      NTB      |
+ |   Array NTB   |
  |               |
   --------------- 
          |P6
