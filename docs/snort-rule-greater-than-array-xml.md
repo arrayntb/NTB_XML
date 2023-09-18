@@ -1,8 +1,8 @@
 ---
-description: Translate Snort Rule to GRISM XML
+description: Translate Snort Rule to Array NTB XML
 ---
 
-# Snort Rule > GRISM XML
+# Snort Rule > Array NTB XML
 
 
 
