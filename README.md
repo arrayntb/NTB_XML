@@ -46,6 +46,9 @@ Define filter id=1 aka **F1** as black IP list and descript network topology in 
     </chain>
 </run>
 ```
+## NTB Training Material
+
+ARRAY-NETWORKS NTB Training ([https://arraynetworks.gitbook.io/array-ntb-training/](https://arraynetworks.gitbook.io/array-ntb-training/))
 
 ## Version
 
